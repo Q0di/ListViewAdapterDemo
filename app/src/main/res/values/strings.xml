@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListViewAdapterDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list_adapter_array">
+        <item>Android List View</item>
+        <item>Adapter Implementation</item>
+        <item>Simple List View</item>
+        <item>Create List View</item>
+        <item>Android</item>
+    </string-array>
+</resources>
